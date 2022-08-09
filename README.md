@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 ### Techs that I can print "Hello World!".
 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JAVA-00599C?style=flat-square&logo=JAVA&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=flat-square&logo=LabVIEW&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
