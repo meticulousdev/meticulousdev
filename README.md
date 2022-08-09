@@ -25,4 +25,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
 
+### Techs that I can pring "Hello World!".
+
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meticulousdev&show_icons=true&theme=radical)
