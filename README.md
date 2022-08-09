@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
 
 ### Techs that I can pring "Hello World!".
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
 
 
 
