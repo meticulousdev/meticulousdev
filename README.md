@@ -1,3 +1,5 @@
+<div align="center">
+
 <!--
 ![header](https://capsule-render.vercel.app/api?type=slice&color=75BDE0&height=150&section=header&text=GitHub&fontSize=65&rotate=10&fontAlign=80&fontAlignY=10&desc=meticulousdev&descSize=30&descAlign=80&descAlignY=35)
 -->
@@ -31,3 +33,6 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meticulousdev&layout=compact&theme=react&langs_count=6)
 
 ![meticulousdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=meticulousdev&show_icons=true&theme=react)
+
+</div>
+
