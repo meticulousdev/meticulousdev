@@ -23,6 +23,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meticulousdev&layout=compact&langs_count=7&hide=jupyter%20notebook&theme=radical)](https://github.com/meticulousdev/github-readme-stats)
 
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meticulousdev&layout=compact&theme=radical) -->
+
+<!-- [![meticulousdev's github stats](https://github-readme-stats.vercel.app/api?username=meticulousdev)](https://github.com/meticulousdev/github-readme-stats) -->
+
 </div>
 
 <!--
